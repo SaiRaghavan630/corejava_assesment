@@ -1,0 +1,38 @@
+[INFO ] 2022-09-23 15:27:42.551 [main]  - Employee Service Constructer is called
+[INFO ] 2022-09-23 15:27:43.094 [main]  - EmployeesRepositoryImpl Constructer is called
+[INFO ] 2022-09-23 15:28:41.641 [main]  - Employee Service Constructer is called
+[INFO ] 2022-09-23 15:28:42.385 [main]  - EmployeesRepositoryImpl Constructer is called
+[INFO ] 2022-09-23 15:29:10.322 [main]  - Employee Service Constructer is called
+[INFO ] 2022-09-23 15:29:11.001 [main]  - EmployeesRepositoryImpl Constructer is called
+[INFO ] 2022-09-23 15:30:40.612 [main]  - Employee Added : true
+[ERROR] 2022-09-23 15:42:50.171 [main]  - Employee Added : false
+[INFO ] 2022-09-23 15:43:31.097 [main]  - Employee Added : true
+[ERROR] 2022-09-23 16:27:44.268 [main]  - Employee Updated : false
+[INFO ] 2022-09-23 17:07:39.203 [main]  - Employee [employeeId=101, firstName=Sai, lastName=Raghavan, address=marathahalli, emailAddress=sairaghavan@gmail.com, phoneNumber=9490173662, dateOfBirth=2000-03-06, weddingDate=2025-03-06]
+[INFO ] 2022-09-23 19:24:16.873 [main]  - FirstName:Sai PhoneNumber:9490173662
+[INFO ] 2022-09-23 19:24:16.875 [main]  - FirstName:gdyefd PhoneNumber:963724371427
+[INFO ] 2022-09-23 19:24:16.875 [main]  - FirstName:rohit PhoneNumber:9876543212
+[INFO ] 2022-09-23 21:25:47.603 [main]  - Employee [employeeId=101, firstName=Sai, lastName=Raghavan, address=marathahalli, emailAddress=sairaghavan@gmail.com, phoneNumber=9490173662, dateOfBirth=2000-03-06, weddingDate=2025-03-06]
+[INFO ] 2022-09-23 22:41:57.158 [main]  - Employee [employeeId=101, firstName=Sai, lastName=Raghavan, address=marathahalli, emailAddress=sairaghavan@gmail.com, phoneNumber=9490173662, dateOfBirth=2000-03-06, weddingDate=2025-03-06]
+[INFO ] 2022-09-23 22:54:21.691 [main]  - Employee Added : true
+[INFO ] 2022-09-23 23:38:49.101 [main]  - Employee [employeeId=101, firstName=Sai, lastName=Raghavan, address=marathahalli, emailAddress=sairaghavan@gmail.com, phoneNumber=9490173662, dateOfBirth=2000-03-06, weddingDate=2025-03-06]
+[INFO ] 2022-09-23 23:38:49.104 [main]  - Employee [employeeId=102, firstName=Sai, lastName=Kiran, address=kadapa, emailAddress=saikiran@gmail.com, phoneNumber=9876543215, dateOfBirth=2000-03-06, weddingDate=2013-07-05]
+[INFO ] 2022-09-24 00:10:02.522 [main]  - Employee Details Updated : true
+[ERROR] 2022-09-24 00:14:41.776 [main]  - Employee Details Updated : false
+[ERROR] 2022-09-24 00:17:01.822 [main]  - Employee Details Updated : false
+[INFO ] 2022-09-24 00:17:24.383 [main]  - Employee Details Updated : true
+[INFO ] 2022-09-24 00:19:01.443 [main]  - Employee Added : true
+[INFO ] 2022-09-24 00:20:18.546 [main]  - Employee Added : true
+[INFO ] 2022-09-24 00:21:33.110 [main]  - Employee Added : true
+[INFO ] 2022-09-24 00:25:08.009 [main]  - Employee [employeeId=101, firstName=sai, lastName=raghavan, address=kadapa, emailAddress=sairaghavan@gmail.com, phoneNumber=9490173662, dateOfBirth=2000-03-06, weddingDate=2019-07-06]
+[INFO ] 2022-09-24 00:25:08.012 [main]  - Employee [employeeId=102, firstName=sai, lastName=nithin, address=hyderabad, emailAddress=sainithin@gmail.com, phoneNumber=897654382, dateOfBirth=2000-03-06, weddingDate=2018-06-09]
+[INFO ] 2022-09-24 00:28:42.816 [main]  - Employee [employeeId=101, firstName=sai, lastName=raghavan, address=kadapa, emailAddress=sairaghavan@gmail.com, phoneNumber=9490173662, dateOfBirth=2000-03-06, weddingDate=2019-07-06]
+[INFO ] 2022-09-24 00:28:42.819 [main]  - Employee [employeeId=102, firstName=sai, lastName=nithin, address=hyderabad, emailAddress=sainithin@gmail.com, phoneNumber=897654382, dateOfBirth=2000-03-06, weddingDate=2018-06-09]
+[ERROR] 2022-09-24 00:32:42.309 [main]  - Employee Details Updated : false
+[ERROR] 2022-09-24 00:36:00.643 [main]  - Employee Details Updated : true
+[INFO ] 2022-09-24 00:38:40.761 [main]  - Employee Details Updated : true
+[ERROR] 2022-09-24 00:38:56.261 [main]  - Employee Details Updated : false
+[INFO ] 2022-09-24 00:44:59.709 [main]  - Employee [employeeId=101, firstName=sai, lastName=raghavan, address=bangalaore, emailAddress=ryion@gmail.com, phoneNumber=985759, dateOfBirth=2000-03-06, weddingDate=2012-03-06]
+[INFO ] 2022-09-24 00:44:59.711 [main]  - Employee [employeeId=102, firstName=sai, lastName=nithin, address=uis, emailAddress=cjdklm, phoneNumber=48497567, dateOfBirth=2000-03-06, weddingDate=2012-03-06]
+[INFO ] 2022-09-24 09:09:21.956 [main]  - Employee [employeeId=101, firstName=sai, lastName=raghavan, address=bangalaore, emailAddress=ryion@gmail.com, phoneNumber=985759, dateOfBirth=2000-03-06, weddingDate=2012-03-06]
+[INFO ] 2022-09-24 09:09:21.972 [main]  - Employee [employeeId=102, firstName=sai, lastName=nithin, address=uis, emailAddress=cjdklm, phoneNumber=48497567, dateOfBirth=2000-03-06, weddingDate=2012-03-06]
